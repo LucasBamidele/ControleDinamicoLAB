@@ -1,0 +1,7 @@
+entrada = dados(4,:);
+saida = dados(2,:)/150;
+hold on 
+plot(entrada)
+plot(saida)
+hold off 
+
